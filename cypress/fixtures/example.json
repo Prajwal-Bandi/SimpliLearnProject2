@@ -1,0 +1,17 @@
+{
+  "username": "testuser@example.com",
+  "homepageTitle": "HSBC India - Credit Cards, NRI Services, Saving and Deposit Accounts",
+  "baseUrl": "https://www.hsbc.co.in/",
+  "country": "India",
+  "atmHeader": "Rajbhavan Road",
+  "socialMedia": {
+    "instagram": "https://www.instagram.com/hsbc",
+    "facebook": "https://www.facebook.com/HSBC",
+    "twitter": "https://twitter.com/HSBC",
+    "youtube": "https://www.youtube.com/HSBC"
+  },
+  "privacyHeader": "Privacy Statement",
+  "branchPageUrlContains": "/ways-to-bank/branches/",
+  "branchHeader": "Branches & ATM"
+}
+
