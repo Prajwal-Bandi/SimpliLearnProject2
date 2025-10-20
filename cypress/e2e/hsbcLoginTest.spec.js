@@ -69,7 +69,7 @@ describe('HSBC Login Test Scenario', () => {
   it('12. Click on the Tooltip', () => {
     cy.visit('https://www.hsbc.co.in/security/');
     loginPage.clickTooltip()
-  })
+  })  
 
   it('13. Validate Username Header in Pop-Up', () => {
     cy.visit('https://www.hsbc.co.in/security/');
